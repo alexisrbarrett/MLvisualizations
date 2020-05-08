@@ -1,0 +1,6 @@
+Feature,Importance
+gender,0.117564
+number_inpatient,0.090221
+insulin, 0.087101
+discharge_disposition_id, 0.070824
+metformin, 0.068720

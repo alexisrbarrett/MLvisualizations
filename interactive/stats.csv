@@ -1,0 +1,5 @@
+Model	Precision	Recall	Accuracy	F-1 Score
+MadMax Decision Tree	0.84	0.82	0.82287743	0.83
+MadMax Random Forest	0.83	0.91	0.90799671	0.87
+Freesinger Random Forest	0.52	0.56	0.55978512	0.5196898
+Freesinger XGBoost	0.52	0.57	0.57093346	0.52677444

@@ -1,0 +1,21 @@
+Model,Feature,Importance
+MK DTree,discharge_disposition_id,0.522412
+MK DTree,number_inpatient,0.477588
+MK DTree,race,0.000000
+MK DTree,gender,0.000000
+MK DTree,age,0.000000
+MK RForest,discharge_disposition_id,0.522412
+MK RForest,number_inpatient,0.477588
+MK RForest,race,0.000000
+MK RForest,gender,0.000000
+MK RForest,age,0.000000
+SW RForest,num_lab_procedures,0.103609
+SW RForest,num_medications,0.096555
+SW RForest,time_in_hospital,0.084600
+SW RForest,age,0.078012
+SW RForest,diag_1,0.071177
+SW XGBoost,gender,0.117564
+SW XGBoost,number_inpatient,0.090221
+SW XGBoost,insulin, 0.087101
+SW XGBoost,discharge_disposition_id, 0.070824
+SW XGBoost,metformin, 0.068720
